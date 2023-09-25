@@ -1,0 +1,137 @@
+[
+  {
+    "word": "dinner",
+    "meaning": "Roasted Chicken with Vegetables",
+    "time": "60",
+    "link": "roasting pan, knife, cutting board, oven",
+    "count": "4",
+    "list": [
+      "1 whole chicken 🍗",
+      "3 carrots 🥕",
+      "2 potatoes 🥔",
+      "1 onion 🧅",
+      "4 garlic cloves 🧄",
+      "Olive oil",
+      "Salt",
+      "Pepper",
+      "Dried herbs (such as thyme, rosemary, or oregano)"
+    ],
+    "sentence": [
+      "Preheat the oven to 425°F 🔥",
+      "Clean the chicken and pat it dry with paper towels 🧻",
+      "Rub the chicken with olive oil, salt, pepper, and dried herbs 🫒🧂🌿",
+      "Place the chicken in a roasting pan 🍗",
+      "Cut the carrots, potatoes, onion, and garlic cloves into large pieces 🥕🥔🧅🧄",
+      "Arrange the vegetables around the chicken in the roasting pan 🥕🥔🧅🧄",
+      "Drizzle olive oil over the vegetables and season with salt, pepper, and dried herbs 🫒🧂🌿",
+      "Roast the chicken and vegetables in the oven for 60 minutes ⏰",
+      "Check the internal temperature of the chicken, it should reach 165°F 🍗",
+      "Remove the chicken from the oven and let it rest for 10 minutes ⌛",
+      "Carve the chicken and serve it with the roasted vegetables 🍗🥕🥔🧅🧄",
+      "Enjoy your meal! Bon appétit! 😋🍽️"
+    ]
+  },
+  {
+    "word": "yumurta",
+    "meaning": "Omlet",
+    "time": "10",
+    "link": "tava",
+    "count": "1",
+    "list": [
+      "2 adet yumurta 🥚",
+      "Bir tutam tuz 🧂",
+      "Bir çay kaşığı tereyağı 🧈",
+      "Bir yemek kaşığı süt 🥛",
+      "Bir tutam karabiber 🌶️",
+      "Rendelenmiş peynir 🧀 (isteğe bağlı)"
+    ],
+    "sentence": [
+      "Öncelikle bir kaseye 2 adet yumurtayı kırın. 🥚",
+      "Üzerine bir tutam tuz, bir çay kaşığı tereyağı ve bir yemek kaşığı süt ekleyin. 🧂🧈🥛",
+      "Bir tutam karabiber ekleyin ve iyice çırpın. 🌶️",
+      "Bir tava üzerine tereyağı ekleyin ve eritin.",
+      "Yumurtalı karışımı tavaya dökün ve altın rengi olana kadar pişirin. 🍳",
+      "Eğer isterseniz rendelenmiş peyniri üzerine serpiştirin ve eriyene kadar kısık ateşte tutun. 🧀",
+      "Omleti tabağa alın ve sıcak servis yapın. 🔥",
+      "Afiyet olsun! Bon Appétit! 🍽️"
+    ]
+  },
+  {
+    "word": "dinner",
+    "meaning": "Chicken Parmesan Dish",
+    "time": 45,
+    "link": "oven, frying pan",
+    "count": "4",
+    "list": [
+      "4 chicken breasts 🐔",
+      "1 cup breadcrumbs 🍞",
+      "1/2 cup grated parmesan cheese 🧀",
+      "1 teaspoon dried basil 🌿",
+      "1 teaspoon dried oregano 🌿",
+      "1/2 teaspoon salt 🧂",
+      "1/4 teaspoon black pepper 🌶️",
+      "2 eggs 🥚",
+      "1/4 cup all-purpose flour",
+      "2 tablespoons olive oil 🫒",
+      "1 cup marinara sauce 🍅",
+      "1 cup shredded mozzarella cheese 🧀"
+    ],
+    "sentence": [
+      "Preheat the oven to 400°F. 🔥",
+      "In a shallow dish, combine breadcrumbs, parmesan cheese, basil, oregano, salt, and black pepper. Mix well. 🍞🧀🌿",
+      "In another shallow dish, beat the eggs. 🥚",
+      "Coat each chicken breast with flour, dip in beaten eggs, then coat with breadcrumb mixture. 🍗🥚🍞",
+      "In a frying pan, heat olive oil over medium-high heat. Cook the chicken breasts until golden brown on both sides. 🍳🍗",
+      "Transfer the chicken breasts to a baking dish. Top each breast with marinara sauce and sprinkle with mozzarella cheese. 🍅🧀",
+      "Bake in the preheated oven for 20 minutes, or until the chicken is cooked through and the cheese is melted and bubbly. ☑️🔥",
+      "Serve the Chicken Parmesan with pasta or salad. Enjoy your meal! 🍝🥗😊"
+    ]
+  },
+  {
+    "word": "yumurta",
+    "meaning": "Omlet",
+    "time": "10",
+    "link": "tava",
+    "count": "1",
+    "list": [
+      "2 adet yumurta 🥚",
+      "Bir tutam tuz 🧂",
+      "Bir çay kaşığı tereyağı 🧈"
+    ],
+    "sentence": [
+      "Tavayı ocağa koyun ve ısıtın. 🔥",
+      "Yumurtaları bir kaseye kırın ve çırpın. ♻️",
+      "Tereyağını tavaya ekleyin ve eriyene kadar bekleyin. 🍳",
+      "Çırpılmış yumurtaları tavaya dökün. 🥚",
+      "Tuz ekleyin ve karıştırın. 🧂",
+      "İki taraflı pişirin, altını üstünü çevirerek kontrol edin. 🔃",
+      "Omleti tabağa alın ve sıcak servis yapın. 🍽️",
+      "Afiyet olsun! 🍳"
+    ]
+  },
+  {
+    "word": "cheese",
+    "meaning": "Cheese Pasta",
+    "time": "20",
+    "link": "pot, stove, colander, pan",
+    "count": "2",
+    "list": [
+      "200g pasta :spaghetti:",
+      "200g cheese :cheese:",
+      "1 tablespoon butter :butter:",
+      "1 cup milk :milk:",
+      "Salt and pepper to taste :salt::pepper:"
+    ],
+    "sentence": [
+      "Boil the pasta in a pot of salted water until al dente. :pot::water::salt:",
+      "Drain the cooked pasta in a colander. :colander:",
+      "In a pan, melt the butter over medium heat. :pan::butter:",
+      "Add the milk to the pan and bring it to a simmer. :pan::milk:",
+      "Stir in the cheese until it melts and the sauce becomes creamy. :cheese:",
+      "Season with salt and pepper to taste. :salt::pepper:",
+      "Add the cooked pasta to the pan and toss until it is well coated with the cheese sauce. :pan::spaghetti:",
+      "Cook for an additional 2-3 minutes to heat the pasta through. :stove:",
+      "Serve hot and enjoy your meal! :plate::yum:"
+    ]
+  }
+]
